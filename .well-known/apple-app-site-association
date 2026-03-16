@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["468G97P6SS.com.sunnysb.icandraw"],
+        "components": [
+          {
+            "/": "/invite/*",
+            "comment": "Drawing challenge invites"
+          }
+        ]
+      }
+    ]
+  }
+}
